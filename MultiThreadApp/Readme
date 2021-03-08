@@ -1,0 +1,4 @@
+This project demonstrate work with threads and tasks. 
+-One task parses 1 time per 5 second temperature from weather website 
+-Second task displays time 1 time per 5 second
+-Third taks parses text from website and runs another task that make log in txt file.
