@@ -1,0 +1,13 @@
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\bin\Debug\MultiThreadApp.exe.config
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\bin\Debug\MultiThreadApp.exe
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\bin\Debug\MultiThreadApp.pdb
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\obj\Debug\MultiThreadApp.csprojAssemblyReference.cache
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\obj\Debug\MultiThreadApp.MainForm.resources
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\obj\Debug\MultiThreadApp.Properties.Resources.resources
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\obj\Debug\MultiThreadApp.csproj.GenerateResource.cache
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\obj\Debug\MultiThreadApp.csproj.CoreCompileInputs.cache
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\obj\Debug\MultiThreadApp.csproj.CopyComplete
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\obj\Debug\MultiThreadApp.exe
+E:\Documents\English structure\Skills\Tech\Программирование\Portfolio Apps\MultiThreadApp\MultiThreadApp\obj\Debug\MultiThreadApp.pdb
