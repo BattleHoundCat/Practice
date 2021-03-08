@@ -1,0 +1,9 @@
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\bin\Release\VideoFileDurationFramework.exe.config
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\bin\Release\VideoFileDurationFramework.exe
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\bin\Release\VideoFileDurationFramework.pdb
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\bin\Release\MediaToolkit.dll
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\obj\Release\VideoFileDurationFramework.csprojAssemblyReference.cache
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\obj\Release\VideoFileDurationFramework.csproj.CoreCompileInputs.cache
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\obj\Release\VideoFileDurationFramework.csproj.CopyComplete
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\obj\Release\VideoFileDurationFramework.exe
+E:\Documents\English structure\Skills\Tech\Программирование\Обучение\Практика\Файловая система\VideoFileDurationFramework\obj\Release\VideoFileDurationFramework.pdb
